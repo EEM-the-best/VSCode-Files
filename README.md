@@ -6,7 +6,7 @@ Contient les fichiers de config à mettre dans le dossier *.vscode*
 
 ## Fichiers
 
-Fichier | utilité
+Fichier | Utilité
 --- | ---
 launch.json | Contient le différentes config accesibles dans le menu déroulant du debug avec les action préalables
 tasks.json | Contient les tâches et les commandes qu'elles exécutent come par ex. make
