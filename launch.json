@@ -12,7 +12,7 @@
             "environment": [],
             "externalConsole": false, //set to true to see output in cmd instead
             "MIMode": "gdb",
-            "miDebuggerPath": "/bin/gdb",
+            "miDebuggerPath": "/usr/bin/gdb",
             "setupCommands": [
                 {
                     "description": "Enable pretty-printing for gdb",
@@ -33,7 +33,7 @@
             "environment": [],
             "externalConsole": false, //set to true to see output in cmd instead
             "MIMode": "gdb",
-            "miDebuggerPath": "/bin/gdb",
+            "miDebuggerPath": "/usr/bin/gdb",
             "setupCommands": [
                 {
                     "description": "Enable pretty-printing for gdb",
